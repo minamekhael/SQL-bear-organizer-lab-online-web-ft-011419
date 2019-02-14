@@ -5,4 +5,4 @@
       gender CHAR(1),
       color TEXT,
       temperament TEXT,
-      alive BOOLEAN;""
+      alive BOOLEAN;"
